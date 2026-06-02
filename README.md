@@ -10,7 +10,7 @@ Astha Mishra
 
 Executive Summary
 
-As part of my Claude AI 60 Days Challenge, Day 1 focused on understanding Prompt Engineering, one of the most important skills for effectively utilizing Artificial Intelligence tools. This session explored how structured prompts improve AI performance, increase output quality, and enhance productivity.
+As part of my Claude AI 60 Days Challenge, Day 2 focused on understanding Prompt Engineering, one of the most important skills for effectively utilizing Artificial Intelligence tools. This session explored how structured prompts improve AI performance, increase output quality, and enhance productivity.
 
 The objective was to learn how to communicate with AI systems more effectively by providing clear instructions, context, and expectations.
 
